@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/yourusername
+
+format:
+  html:
+    theme: lux # You can change the theme to another Bootswatch theme
+    css: styles.css # Optional: Add custom CSS
