@@ -1,0 +1,39 @@
+---
+title: "Teaching"
+---
+
+## Teaching Experience
+
+### Introductory Statistics – Bachelor's Programme, Political Science  
+**University of Innsbruck**
+
+I have taught **Introductory Statistics** in the **Bachelor’s Programme in Political Science** at the University of Innsbruck. This course introduces students to the essential principles of statistical reasoning and their application in the **empirical research** of social sciences.
+
+### Learning Outcomes
+
+- **Comprehend the logic** of statistical procedures and approaches in **empirical research**.
+- **Critically evaluate** statistical claims in academic and public discourse.
+- Perform **independent data analysis** using statistical software, focusing on practical applications.
+  
+By the end of the course, students are capable of conducting **simple data analyses** and interpreting statistical results in the context of **political science**.
+
+### Course Contents
+
+The course covers a broad range of topics, with an emphasis on the following:
+
+- **Quantitative methods** for analyzing key questions in political science.
+- Practical training in using the statistical software **R** for data analysis.
+- **Univariate, bivariate,** and introductory **multivariate** analysis methods.
+- **Graphical** and **tabular presentation** of empirical findings.
+
+### Teaching Methods
+
+The course adopts a **hands-on approach**:
+
+- Students engage in the development, presentation, and discussion of **empirical case studies** and exercises.
+- Practical examples and empirical cases are used to train students in conducting **independent analyses**.
+- Emphasis is placed on **student participation**, fostering a deeper understanding through discussion and problem-solving.
+
+---
+
+For more information about the course or inquiries regarding my teaching, feel free to [contact me](mailto:christian.schwaderer@uibk.ac.at).

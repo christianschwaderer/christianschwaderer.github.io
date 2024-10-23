@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Blog",
+    "title": "About Me",
     "section": "",
-    "text": "My Blog\nWelcome to my blog!"
+    "text": "I am a doctoral candidate at the Department of Political Science, University of Innsbruck.\nMy research focuses on political communication during crises, with a particular emphasis on how the public perceives and reacts to government messaging. I investigate how communication evolves on social media platforms, delving into user interactions and responses.\nI use computational methods such as text analysis, natural language processing (NLP), and text-as-data approaches to analyze large-scale datasets, uncovering patterns in political crisis discourse."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,89 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Contact.html",
+    "href": "Contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Christian Schwaderer\nDepartment of Political Science\nUniversity of Innsbruck\n Address:\nUniversitätsstrasse 15\n6020 Innsbruck\nAustria\n\n\nContact Information\n\n christian.schwaderer@uibk.ac.at\n +43 512 507 70129\n 0000-0002-9370-1572"
+  },
+  {
+    "objectID": "Contact.html#christian-schwaderer",
+    "href": "Contact.html#christian-schwaderer",
+    "title": "Contact",
+    "section": "",
+    "text": "Department of Political Science\nUniversity of Innsbruck\nAddress:\nUniversitätsstrasse 15\n6020 Innsbruck\nAustria"
+  },
+  {
+    "objectID": "Contact.html#contact-information",
+    "href": "Contact.html#contact-information",
+    "title": "Contact",
+    "section": "",
+    "text": "christian.schwaderer@uibk.ac.at\n +491636643421"
+  },
+  {
+    "objectID": "Contact.html#profile",
+    "href": "Contact.html#profile",
+    "title": "Contact",
+    "section": "Profile",
+    "text": "Profile\n\n 0000-0002-9370-1572"
+  },
+  {
+    "objectID": "index.html#hi-im-christian-schwaderer",
+    "href": "index.html#hi-im-christian-schwaderer",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a doctoral candidate at the Department of Political Science, University of Innsbruck.\nMy research focuses on political communication during crises, with a particular emphasis on how the public perceives and reacts to government messaging. I investigate how communication evolves on social media platforms, delving into user interactions and responses.\nI use computational methods such as text analysis, natural language processing (NLP), and text-as-data approaches to analyze large-scale datasets, uncovering patterns in political crisis discourse."
+  },
+  {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "University of Innsbruck\nI have taught Introductory Statistics in the Bachelor’s Programme in Political Science at the University of Innsbruck. This course introduces students to the essential principles of statistical reasoning and their application in the empirical research of social sciences.\n\n\n\n\nComprehend the logic of statistical procedures and approaches in empirical research.\nCritically evaluate statistical claims in academic and public discourse.\nPerform independent data analysis using statistical software, focusing on practical applications.\n\nBy the end of the course, students are capable of conducting simple data analyses and interpreting statistical results in the context of political science.\n\n\n\nThe course covers a broad range of topics, with an emphasis on the following:\n\nQuantitative methods for analyzing key questions in political science.\nPractical training in using the statistical software R for data analysis.\nUnivariate, bivariate, and introductory multivariate analysis methods.\nGraphical and tabular presentation of empirical findings.\n\n\n\n\nThe course adopts a hands-on approach:\n\nStudents engage in the development, presentation, and discussion of empirical case studies and exercises.\nPractical examples and empirical cases are used to train students in conducting independent analyses.\nEmphasis is placed on student participation, fostering a deeper understanding through discussion and problem-solving.\n\n\nFor more information about the course or inquiries regarding my teaching, feel free to contact me."
+  },
+  {
+    "objectID": "Teaching.html#teaching-experience",
+    "href": "Teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "",
+    "text": "University of Innsbruck\nI have taught Introductory Statistics in the Bachelor’s Programme in Political Science at the University of Innsbruck. This course introduces students to the essential principles of statistical reasoning and their application in the empirical research of social sciences.\n\n\n\n\nComprehend the logic of statistical procedures and approaches in empirical research.\nCritically evaluate statistical claims in academic and public discourse.\nPerform independent data analysis using statistical software, focusing on practical applications.\n\nBy the end of the course, students are capable of conducting simple data analyses and interpreting statistical results in the context of political science.\n\n\n\nThe course covers a broad range of topics, with an emphasis on the following:\n\nQuantitative methods for analyzing key questions in political science.\nPractical training in using the statistical software R for data analysis.\nUnivariate, bivariate, and introductory multivariate analysis methods.\nGraphical and tabular presentation of empirical findings.\n\n\n\n\nThe course adopts a hands-on approach:\n\nStudents engage in the development, presentation, and discussion of empirical case studies and exercises.\nPractical examples and empirical cases are used to train students in conducting independent analyses.\nEmphasis is placed on student participation, fostering a deeper understanding through discussion and problem-solving.\n\n\nFor more information about the course or inquiries regarding my teaching, feel free to contact me."
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research primarily focuses on trust in crisis communication, particularly examining how trust is expressed on social media during times of crisis. I explore the dynamics of social media communication, emphasizing the significance of text-as-data approaches to analyze user interactions and discourse.\nKey areas of interest include: - Understanding trust expression on social media platforms. - Investigating the nature of social media discourse during crises. - Analyzing the public’s perception of communication by government entities.\nThrough these lenses, I aim to uncover how trust can be built or eroded in the context of crisis communication, particularly as it unfolds in the digital landscape."
+  },
+  {
+    "objectID": "Research.html#my-research",
+    "href": "Research.html#my-research",
+    "title": "Research",
+    "section": "",
+    "text": "My research primarily focuses on trust in crisis communication, particularly examining how trust is expressed on social media during times of crisis. I explore the dynamics of social media communication, emphasizing the significance of text-as-data approaches to analyze user interactions and discourse.\nKey areas of interest include: - Understanding trust expression on social media platforms. - Investigating the nature of social media discourse during crises. - Analyzing the public’s perception of communication by government entities.\nThrough these lenses, I aim to uncover how trust can be built or eroded in the context of crisis communication, particularly as it unfolds in the digital landscape."
+  },
+  {
+    "objectID": "Research.html#current-project-communicating-the-covid-19-crisis",
+    "href": "Research.html#current-project-communicating-the-covid-19-crisis",
+    "title": "Research",
+    "section": "Current Project: Communicating the COVID-19 Crisis",
+    "text": "Current Project: Communicating the COVID-19 Crisis\n\nA Comparative Analysis of Crisis Communication by Governments and Heads of State\nThis project, led by Lore Hayek, Sarah C. Dingler, and Martin Senn, examines government press conferences on COVID-19 to analyze communication behavior during crises. The pandemic provided a unique opportunity to explore political crisis communication through the lens of government messaging.\nFor more information, visit the project website.\n\n\nProject Objectives\nWe address two central questions: 1. Which strategies did governments and heads of state employ during the initial phase of the COVID-19 crisis? 2. What factors influenced these crisis communication strategies?\n\n\nProject Realization\nBy analyzing live-streamed speeches and press conferences from January to summer 2020 across 17 OECD countries, we aim to uncover how often and on what topics leaders communicated. Our findings will offer new insights into the political dimensions of the COVID-19 crisis and enhance our understanding of crisis communication strategies."
+  },
+  {
+    "objectID": "Publications.html",
+    "href": "Publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Articles\n\nDingler, S.C., Hayek, L., Schwaderer, C., Senn, M., Kraxberger, A.M., and Ragheb, N. (2024). Everyone will know someone who died of Corona: Government threat language during the COVID-19 pandemic. European Journal of Political Research. https://doi.org/10.1111/1475-6765.12676.\n\n\n\nDatasets\n\nHayek, Lore; Dingler, Sarah C.; Schwaderer, Christian; Senn, Martin; Kraxberger, Andreas M.; Ragheb, Nada; Nordone, Fiona C. (2024). Communicating the COVID-19 Crisis: A Comparative Analysis of Crisis Communication by Governments and Heads of State (SUF edition). https://doi.org/10.11587/RWHCSF."
+  },
+  {
+    "objectID": "Publications.html#publications",
+    "href": "Publications.html#publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Dingler, S.C., Hayek, L., Schwaderer, C., Senn, M., Kraxberger, A.M., and Ragheb, N. (2024). Everyone will know someone who died of Corona: Government threat language during the COVID-19 pandemic. European Journal of Political Research. https://doi.org/10.1111/1475-6765.12676.\n\n\n\n\n\nHayek, Lore; Dingler, Sarah C.; Schwaderer, Christian; Senn, Martin; Kraxberger, Andreas M.; Ragheb, Nada; Nordone, Fiona C. (2024). Communicating the COVID-19 Crisis: A Comparative Analysis of Crisis Communication by Governments and Heads of State (SUF edition). https://doi.org/10.11587/RWHCSF."
   }
 ]

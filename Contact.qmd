@@ -1,0 +1,19 @@
+---
+title: "Contact"
+---
+
+### Christian Schwaderer
+
+**Department of Political Science**  
+University of Innsbruck
+
+<i class="bi bi-geo-alt"></i> **Address:**  
+Universitätsstrasse 15  
+6020 Innsbruck  
+Austria
+
+### Contact Information
+
+- <i class="bi bi-envelope"></i> [christian.schwaderer@uibk.ac.at](mailto:christian.schwaderer@uibk.ac.at)
+- <i class="bi bi-telephone"></i> +43 512 507 70129
+- <i class="ai ai-orcid"></i> [0000-0002-9370-1572](https://orcid.org/0000-0002-9370-1572)
