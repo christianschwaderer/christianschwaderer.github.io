@@ -1,0 +1,11 @@
+---
+title: "About Me"
+---
+
+## Hi, I'm Christian Schwaderer
+
+<img src="schwaderer.jpg" style="width: 150px; border-radius: 1%; margin-right: 20px; float: left;">
+
+My research focuses on **political communication during crises**, with a particular emphasis on how the public perceives and reacts to government messaging. I investigate how communication evolves on social media platforms, delving into user interactions and responses.
+
+I use **computational methods** such as text analysis, **natural language processing (NLP)**, and **text-as-data** approaches to analyze large-scale datasets, uncovering patterns in **political crisis discourse**.
