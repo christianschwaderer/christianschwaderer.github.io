@@ -4,20 +4,49 @@ title: "Teaching"
 
 ## Teaching Experience
 
-### Introductory Statistics – Bachelor's Programme, Political Science  
-**University of Innsbruck**
+### Political Communication and Electoral Analysis
+*Proseminar, Bachelor's Programme in Political Science. Taught at the University of Innsbruck in winter semester 2025/26.*
 
-I have taught **Introductory Statistics** in the **Bachelor’s Programme in Political Science** at the University of Innsbruck. This course introduces students to the essential principles of statistical reasoning and their application in the **empirical research** of social sciences.
+This course introduces students to key current topics, theories, and methods in **political communication** and **electoral research**.
 
-### Learning Outcomes
+#### Learning Outcomes
+
+- Become familiar with **theories and concepts** of party and political communication.
+- Understand the **approaches and methods** used to study political communication, including **quantitative text analysis**.
+- Develop an **independent research project**, from research question and theoretical framework to methodological approach and results.
+
+#### Course Contents
+
+- **Cleavages, values, and spatial voting** as the structure of political competition.
+- **Issue competition, agenda setting, and framing**, including how parties shift their positions.
+- **Group appeals** and identity-based mobilization.
+- **Methods:** quantitative text analysis and text-as-data approaches.
+- **Platforms and social media** in a high-choice media environment.
+- **Polarization**, **anti-elite rhetoric**, and **populist communication**.
+- **Gendered patterns** in political communication.
+
+#### Teaching Methods
+
+- Students prepare the **required readings**, which are discussed in detail in each session.
+- Short **lectures** on theories, concepts, and methods complement the discussions.
+- Students write a **research paper** step by step: a **proposal** receives written feedback, preliminary results are **presented and discussed** with designated discussants, and the final paper builds on both rounds of feedback.
+
+---
+
+### Introductory Statistics
+*Proseminar, Bachelor's Programme in Political Science. Taught at the University of Innsbruck in winter semester 2023/24 and summer semester 2024.*
+
+This course introduces students to the essential principles of statistical reasoning and their application in the **empirical research** of social sciences.
+
+#### Learning Outcomes
 
 - **Comprehend the logic** of statistical procedures and approaches in **empirical research**.
 - **Critically evaluate** statistical claims in academic and public discourse.
 - Perform **independent data analysis** using statistical software, focusing on practical applications.
-  
+
 By the end of the course, students are capable of conducting **simple data analyses** and interpreting statistical results in the context of **political science**.
 
-### Course Contents
+#### Course Contents
 
 The course covers a broad range of topics, with an emphasis on the following:
 
@@ -26,7 +55,7 @@ The course covers a broad range of topics, with an emphasis on the following:
 - **Univariate, bivariate,** and introductory **multivariate** analysis methods.
 - **Graphical** and **tabular presentation** of empirical findings.
 
-### Teaching Methods
+#### Teaching Methods
 
 The course adopts a **hands-on approach**:
 
@@ -36,4 +65,4 @@ The course adopts a **hands-on approach**:
 
 ---
 
-For more information about the course or inquiries regarding my teaching, feel free to [contact me](mailto:christian.schwaderer@uibk.ac.at).
+For more information about my courses or inquiries regarding my teaching, feel free to [contact me](mailto:christian.schwaderer@uibk.ac.at).
